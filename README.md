@@ -1,7 +1,7 @@
 # Home Assistant Blackcurrant Theme
 
 ## Screenshot
-![](https://github.com/4jandals/blackcurrant-theme/blob/d6fd8ada2ad9b2d183ebce761d420377e2968567/blackcurrant-screenshot.png)
+![](https://github.com/4jandals/blackcurrant-theme/blob/96276ada17f6fa35b8e05e8202253e170b461c1d/blackcurrant-screenshot.png)
 
 ### Home Assistant Setup
 

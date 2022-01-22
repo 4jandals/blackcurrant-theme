@@ -20,7 +20,7 @@ frontend:
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
-2. Under, **Themes**, select the new gruvbox theme
+2. Under, **Themes**, select the new Blackcurrant theme
 
 ### Thanks to:
 - [aFFekopp](https://github.com/aFFekopp/noctis) for the noctis theme this is based on

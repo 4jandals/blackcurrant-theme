@@ -65,7 +65,7 @@ blackcurrant:
   mdc-theme-primary: 'var(--accent-color)'
 
   # Switch
-  switch-unchecked-color: '#70889e'
+  switch-unchecked-color: '#A9A7B9'
   switch-checked-button-color: 'var(--accent-color)'
   switch-unchecked-track-color: 'var(--background-color-2)'
   switch-checked-track-color: 'var(--background-color-2)'
